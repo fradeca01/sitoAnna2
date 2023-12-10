@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>schizzi on Titolo del sito</title>
+    <link>https://eternity.bora.sh/schizzi/</link>
+    <description>Recent content in schizzi on Titolo del sito</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://eternity.bora.sh/schizzi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Here&#39;s my first post!!</title>
+      <link>https://eternity.bora.sh/schizzi-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eternity.bora.sh/schizzi-1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

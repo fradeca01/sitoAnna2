@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>moda on Titolo del sito</title>
+    <link>https://eternity.bora.sh/tags/moda/</link>
+    <description>Recent content in moda on Titolo del sito</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://eternity.bora.sh/tags/moda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>people 3</title>
+      <link>https://eternity.bora.sh/moda-1/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://eternity.bora.sh/moda-1/</guid>
+      <description>Markdown You can use Markdown format to write your story.&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+  </channel>
+</rss>

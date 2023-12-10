@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Titolo del sito</title>
+    <link>https://eternity.bora.sh/</link>
+    <description>Recent content on Titolo del sito</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://eternity.bora.sh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>people 3</title>
+      <link>https://eternity.bora.sh/illustrazione/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://eternity.bora.sh/illustrazione/</guid>
+      <description>Markdown You can use Markdown format to write your story.&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+    <item>
+      <title>people 3</title>
+      <link>https://eternity.bora.sh/moda-1/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://eternity.bora.sh/moda-1/</guid>
+      <description>Markdown You can use Markdown format to write your story.&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!&#xA;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+    <item>
+      <title>404</title>
+      <link>https://eternity.bora.sh/404.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eternity.bora.sh/404.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>about</title>
+      <link>https://eternity.bora.sh/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eternity.bora.sh/about/</guid>
+      <description>Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. This is demo site for Eternity theme. All images are taken from Unsplash. Features Configurable features.&#xA;Multiple images support.&#xA;Clean, fresh, minimalist.&#xA;Integrated lazy load.&#xA;Automatically creates resized thumbnails.&#xA;Shows exif if it exists.&#xA;Installation Install Hugo.&#xA;Create a new site.&#xA;hugo new site yoursite cd yoursite Remove default config file.&#xA;rm hugo.toml If you use an older version of Hugo (&amp;lt; v0.</description>
+    </item>
+    <item>
+      <title>Here&#39;s my first post!!</title>
+      <link>https://eternity.bora.sh/schizzi-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eternity.bora.sh/schizzi-1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

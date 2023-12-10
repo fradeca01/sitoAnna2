@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on Titolo del sito</title>
+    <link>https://eternity.bora.sh/tags/</link>
+    <description>Recent content in tags on Titolo del sito</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://eternity.bora.sh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>illustrazioni</title>
+      <link>https://eternity.bora.sh/tags/illustrazioni/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://eternity.bora.sh/tags/illustrazioni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>moda</title>
+      <link>https://eternity.bora.sh/tags/moda/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://eternity.bora.sh/tags/moda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>people</title>
+      <link>https://eternity.bora.sh/tags/people/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://eternity.bora.sh/tags/people/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>schizzi2</title>
+      <link>https://eternity.bora.sh/tags/schizzi2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eternity.bora.sh/tags/schizzi2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
